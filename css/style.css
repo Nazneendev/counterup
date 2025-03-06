@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+.container {
+    width: 1320px;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+}
+.mainPart {
+    padding: 250px 0;
+    background-image: linear-gradient(to right top, #53a4e1, #3b8fd9, #2b79ce, #2863c2, #2f4cb3);
+
+}
